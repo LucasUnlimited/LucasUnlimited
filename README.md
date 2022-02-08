@@ -10,7 +10,7 @@ Me chamo Lucas e trabalho com :computer: desenvolvimento front-end, ui e ux desi
 - Adobe XD
 - Vs Code
 
-:mag: <b>Tecnologias:</b>
+:keyboard: <b>Tecnologias:</b>
 - HTML
 - CSS
 - JS
