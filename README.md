@@ -1,6 +1,6 @@
-Me chamo Lucas e trabalho com :computer: desenvolvimento front-end, ui e ux design :pencil2:
+Me chamo Lucas e trabalho com :computer: desenvolvimento front-end, ui/ux design :pencil2:
 
-:coffee: Aqui posto alguns dos meus projetos para web e meus protótipos estão hospedados no <b>BEHANCE</b> 
+:coffee:
 
 :globe_with_meridians: https://www.behance.net/lucascmendes
 
