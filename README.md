@@ -1,4 +1,5 @@
-Me chamo Lucas e trabalho com :computer: desenvolvimento front-end, ui/ux design :pencil2:
+:computer: Front-end
+:pencil2: ui/ux Design 
 
 :coffee:
 
@@ -6,11 +7,11 @@ Me chamo Lucas e trabalho com :computer: desenvolvimento front-end, ui/ux design
 
 ------------------------------------------------------------
 
-:wrench: <b>Ferramentas:</b>
+:wrench: <b>Tools:</b>
 - Adobe XD
 - Vs Code
 
-:keyboard: <b>Tecnologias:</b>
+:keyboard: <b>Technologies:</b>
 - HTML
 - CSS
 - JS
