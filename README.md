@@ -1,7 +1,8 @@
-:computer: Front-end
-:pencil2: ui/ux Design 
-
 :coffee:
+
+:computer: Front-end
+
+:pencil2: ui/ux Design 
 
 :globe_with_meridians: https://www.behance.net/lucascmendes
 
