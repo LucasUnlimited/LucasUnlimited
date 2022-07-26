@@ -1,8 +1,8 @@
-:coffee:
+:battery: :coffee:
 
-:computer: Front-end
+:keyboard: Front-end
 
-:pencil2: ui/ux Design 
+:computer_mouse: UI/UX Design 
 
 :globe_with_meridians: https://www.behance.net/lucascmendes
 
