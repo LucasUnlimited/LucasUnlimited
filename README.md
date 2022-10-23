@@ -4,7 +4,7 @@
 
 :computer_mouse: UI/UX Design 
 
-:globe_with_meridians: https://www.behance.net/lucascmendes
+:globe_with_meridians: https://lucasdesignilimitado.myportfolio.com/
 
 ------------------------------------------------------------
 
@@ -16,6 +16,7 @@
 - HTML
 - CSS
 - JS
+- PHP
 
 :bulb: <b>Framework:</b>
 - BootStrap
