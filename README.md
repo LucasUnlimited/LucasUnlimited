@@ -4,7 +4,7 @@
 
 :computer_mouse: UI/UX Design 
 
-:globe_with_meridians: https://lucasdesignilimitado.myportfolio.com/
+:globe_with_meridians: https://www.behance.net/lucascmendes
 
 ------------------------------------------------------------
 
