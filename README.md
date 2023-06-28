@@ -2,7 +2,7 @@
 
 :keyboard: Front-end
 
-:computer_mouse: UI/UX Design 
+:computer_mouse: UX/UI Design 
 
 :globe_with_meridians: https://www.behance.net/lucascmendes
 
@@ -20,6 +20,7 @@
 
 :bulb: <b>Framework:</b>
 - BootStrap
+- React
 
 
 <!--
