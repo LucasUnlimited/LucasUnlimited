@@ -9,8 +9,8 @@
 ------------------------------------------------------------
 
 :wrench: <b>Tools:</b>
-- Adobe XD
-- Vs Code
+- Figma
+- VS Code
 
 :keyboard: <b>Technologies:</b>
 - HTML
