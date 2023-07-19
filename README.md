@@ -18,7 +18,7 @@
 - JS
 - PHP
 
-:bulb: <b>Framework:</b>
+:bulb: <b>Frameworks / Libraries:</b>
 - BootStrap
 - React
 
