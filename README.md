@@ -17,10 +17,13 @@
 - CSS
 - JS
 - PHP
+- JAVA
 
 :bulb: <b>Frameworks / Libraries:</b>
 - BootStrap
 - React
+- p5.js
+- Processing
 
 
 <!--
